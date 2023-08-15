@@ -18,3 +18,7 @@
 
 > **Important**
 > This is important
+
+> **Note**
+>
+> This is a note
