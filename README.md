@@ -15,3 +15,6 @@
 
 > **Warning**
 > This is a warning
+
+> **Important**
+> This is important
